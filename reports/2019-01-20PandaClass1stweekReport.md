@@ -33,7 +33,7 @@ The  contents of this report is mainly about my planning and ideas for the Manda
 
 #### Learning and Memorizing 学习和记忆
 
-The purpose of learning is to use. Before that, learners must go through the layers of memory, understanding, connection and expansion. Therefore, the first step in teaching is to let students remember. The following are the memory theories I have filtered and the elements that apply to children:
+The purpose of learning is to apply. But, before that, learners must go through the levels of learning, such as memorizing, understanding, connection and explore. Therefore, the first step in teaching is to let the students remember what they have learned. The following are the memory theories I have filtered and in which the elements which suitable to apply to my students:
 
 学习的目的是活用，在那之前，学习者必须经过记忆、理解、连结和拓展等层次，所以，教学要考量的第一步，就是如何让学生记住？以下是我筛选的记忆理论、适用於孩子们的要素：
 
@@ -45,37 +45,57 @@ The purpose of learning is to use. Before that, learners must go through the lay
 - 重复学习以对抗遗忘曲线。我还在寻思设计不同的方法让孩子们复习他们学过的内容，以免沉闷无聊。目前尚未有明确想法。除此之外，提取练习、分散学习、间隔学习也是目前公认可以强化记忆、减少遗忘的好策略，是认知科学的研究成果。我也会将这些理论融入教学规划当中。
 - In addition, deepening the level of learning, such as understanding, linking what you learn to your own experience, or linking with other learned knowledge, can not only learn deeper and more comprehensive, but also effectively strengthen memory, and finally easier in students. The life is applied. These are also the aspects that are being considered when designing the course teaching, such as how to connect them with new words in the teaching process, such as letting children tell stories, doing activities to deepen understanding and so on. I haven't had time to integrate these thoughts yet. But the direction is expected to be tried this way.
 - 除此之外，深化学习层次，如理解、把所学跟自己的经验连结，或跟其他学到的知识连结，不止可以学得更深更全面，也会有效加强记忆，最后更容易在学生的生活中被应用出来。这些也是在设计课程教学时，正在考量的面向，比如如何在教学过程中让他们把新词汇跟自己连结，如让孩子讲故事、做活动加深理解等等。目前还没来得及统整这些思绪。但之后的方向预计是打算这么尝试的。
-- Modern education, learning, and cognitive science show that quizzes are necessary for learning, so I am still looking for ways to get them to test. Maybe you don't have to be as boring as the exam, you can combine activities, such as answering the Chinese pronunciation of the organ on your face, you can get the picture of the organ, and finish the image of "my face" (assuming that it is a game that spells out your face). ). Planning and research are also needed.
+- In the research of education, learning, and cognitive science recently, shown that assessment are necessary for learning, so I am still looking for the ways to test my students' learning results. Maybe I'll try to not to be as boring as the exam, but combine activities, for example a game to find out the pieces  (pictures) of those organ on their face and combine them to form their own face. But, the children can only get their pieces of images after they can answer the words or pronunciation of body part (of the face) correctly. This may need more thinking, planning, trying and exploring.
 
 - 近代教育、学习和认知科学显示，测验对学习来说是必须的，所以我也还在寻找让他们进行测验的方式。也许可以不用像考试那么枯燥，可以结合活动，如答对脸上的器官的华语发音，才可以拿到该器官的图片，拼完“我的脸”的图像（假设是拼出自己的脸的游戏）。还需要规划和研究。
 
 #### Language Learning 语言学习
 
+For language learning, listening and pronunciation should be prioritized. Because the children' brain are very sensitive in changes of the sound and voice in the surrounding, the language machine in their brain will allows them to recognize and absorb the pronunciation of various languages effectively . But only the content they can understand will form a comprehensible input to them. Otherwise, language learning will be ineffective for them. Therefore, I will try to communicate with them in bilingual and slowly increase Mandarin until they can understand more than half of the Mandarin I have spoke. (Because of they din't understand the Mandarin that I had said, the children in my class will dodge me...) This may be the motivation that motivates me to increase their vocabulary in Mandarin effectively XD.
+
 对于语言学习，应该以语音优先。因为这时孩子大脑对于周遭语音的变化最为敏感，幼儿大脑里面的语言机器可以让他们快速辨识和吸收各种语言发音。而只有他们听得懂的内容，才会对他们形成可理解输入（comprehensible input），否则，语言学习对他们便会无效。因此，我会尝试用双语跟他们沟通，慢慢增加华语，直到他们可以听懂超过一半我说的华语为止。（因为他们目前都听不懂，我班里的孩子都会因此避开我……）这也是激励我必须有效增加他们的词汇量的动力（笑~）。
+
+In addition, words recognizing is also very important. Because, as mentioned above, more links or connection have been created, they are more able to remember the vocab they have learned. Therefore, learning both pronunciation (hearing) and words (visual) can increase the  stimulus and connections, and will be deepen the impression that what the children have learned. For example, they will know about the words what they heard and what it looks like.
 
 另外，认字也是非常重要的。因为如同上述所说，能创造更多连结，他们更能够记住词汇。所以，同时学会语音（听觉）和文字形态（视觉），可以增添更多刺激和连结，加深孩子们学单词的印象。比如，他们会知道自己听到的东西是什么、看起来是怎样的。
 
+However, it is too difficult for them to learn phonetic or pinyin at this stage, which is far more than their ability. They don't even have a fundamental in vocabulary and will not be interested in learning. This is why I must help them to accumulate their vocabularies first. It is more useful for children who are older and have a certain vocabulary to learn phonetic or Pinyin. For my student, they can skip it first.
+
 不过，现阶段如果要他们学音标或拼音来说，太难了，这远远超过他们的能力。他们连词汇量都没有，无法对学习这些提起兴趣。这也是为何必须先帮他们累积词汇量的原因。大一点、有一定词汇量的孩子来学，会比较有用。他们则可以先略过。
+
+My inference is that the phonetic symbols and pinyin are too difficult to learn for young children and this will be inefficient. This will be same in teaching of Mandarin words writing. I think this should  teach them in the last semester, the end of this year or next year.
 
 我的判断是，音标、拼音对幼儿来说过于困难，学了效率不会高。还有写字也一样，预计要在最后一个学期、年底或者新的一年再教。
 
-
-
 #### Teaching Plan of Mandarin 华语教学计划
 
-对4~6岁的幼儿来说，他们应该对母语掌握2、3000甚至5000个词汇量。但
+For children in 4-6 years old, they should have 2000 to 3000, or even 5,000 vocabulary in their native language. But my students can't make it currently. I plan to train them to master the pronunciation and listening of 300 to 400 Mandarin words first.
 
-需要会的词汇量
+对於4~6岁的幼儿来说，他们应该对母语掌握2、3000甚至5000个词汇量。但我的学生目前相对不达标。我预计先训练他们掌握3、400个华语词汇的发音和听力。
 
-拼音和听写（写字）远远超过他们的能力（要最后一学期、年底或新的一年才教）
+Teaching is expected to start with a thematic vocabulary, they may learn through singing, activities or games, and I plan to teach them one vocabulary per day. This will increase according to the student's abilities later. In addition to learning the vocabulary's listening and pronunciation, I will also take the opportunity to teach them to recognize the words (do not teach pinyin, but will mark with Pinyin). Therefore,  Pinyin will be displayed when teaching, and way to write those Mandarin words will be written to them too.
 
-认字为主、主题式教学、唱歌、游戏……
+教学预计以主题式词汇开始，通过唱歌、活动或游戏等方式学习，一天学一个词汇，再根据学生能力增加。除了学习词汇的听力和发音，也会借此机会教他们认字（不教拼音，但会搭配拼音）。因此，教学时，会显示拼音，也会把文字的笔顺写给他们看。
 
-歌词贴墙壁
+The topics I plan to teach in this semester are family, body parts, shapes, colors, food, etc.
 
-一天学一个词，如何学？
+这学期预计要教的主题有家庭、身体部分、形状、颜色、食物等等。
 
-拼音、写字顺序
+In addition, I intend to select some related children's songs based on the teaching content, in order to enrich the teaching process. I would like to paste the songs' lyrics on the wall in the classroom, in order to let them recognize Mandarin words and pinyin. I plan to combine the lyrics with colorful images. The images and words in visual,combined with rhythm and melody, may be help them to remember the words as much as possible. The goal of activities and games are to help them to understand the meaning of vocabulary and to connect what they learn with themselves.
+
+此外，我打算依据教学内容选择有关联的儿歌，辅助教学，并将歌词贴在教室墙壁上，目的是让他们认字和拼音。我打算把歌词内容搭配彩色图片，图像、文字和旋律的结合，尽可能帮助他们记忆。活动和游戏的目标则是帮助他们理解词汇的含义和让所学与他们自身产生联系。
+
+I have to discuss this part with my partner teacher Ammyrah first. I have never mentioned this to her.
+
+这个部分我得先和我的搭档Ammyrah老师讨论，我还未曾向她提及此事。
+
+All in all, my teaching will focus on memory, and the games and activities in the process will let them understand the concepts, connect with those concepts they have learned, and imagination session can also help them to create their own stories related to themselves, and finally, I hope they can apply what they have learned in their life. 
+
+总得来说，我的教学会以记忆为主要目标，过程中的游戏和活动等让他们理解概念，跟概念产生连结，甚至想象跟他们自己有关的故事，以至最后能够将所学应用于生活中。
+
+As for the assessment method, I think I will not use dictation at first, but I still have no idea that how to do it now.
+
+至于测验方式，先不会使用听写，但未想好该如何做。
 
 #### Discipline of Children 纪律情况
 
@@ -138,6 +158,8 @@ The teaching plan will focus on the skill of listening, speaking and recognize t
 ## Discussion
 
 - Refer to contents in "My Plan".
+- I’ll trying to do more discussion with my partner teacher Ammyrah, and learn more from her (although my English is very bad T.T) and I'll write my lesson plan in English so that both of us can understand.
+- Any feedback from management team may be discuss and I'll adjust my plan.
 
 ## References
 
